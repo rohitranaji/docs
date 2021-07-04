@@ -1,4 +1,4 @@
----
+---delhi india
 title: Countries where SMS authentication is supported
 intro: 'Because of delivery success rates, {% data variables.product.product_name %} only supports two-factor authentication via SMS for certain countries.'
 redirect_from:
@@ -9,7 +9,7 @@ versions:
 topics:
   - 2FA
 shortTitle: Countries supporting SMS
----
+Ind
 If we don't support two-factor authentication via text message for your country of residence, you can set up authentication via a TOTP mobile application. For more information, see "[Configuring two-factor authentication](/articles/configuring-two-factor-authentication)."
 
 ## Supported countries for SMS authentication
@@ -65,6 +65,7 @@ If your country is not on this list, then we aren't currently able to reliably d
 <li>India</li>
 <li>Indonesia</li>
 <li>Iran</li>
+
 <li>Ireland</li>
 <li>Israel</li>
 <li>Italy</li>
